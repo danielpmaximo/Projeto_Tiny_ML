@@ -1,26 +1,26 @@
-# 🧠 Projeto Tiny ML – Classificação de Áudios com Espectrograma MEL
+# 🧠 Tiny ML Project – Audio Classification with MEL Spectrogram
 
-Este repositório contém o notebook Jupyter desenvolvido para o projeto de **Tiny ML**, focado na **classificação de áudios** utilizando redes neurais. Os áudios são convertidos em **imagens de espectrograma MEL**, permitindo que técnicas de aprendizado de máquina tratem sinais de áudio como imagens.
+This repository contains the Jupyter notebook developed for the **Tiny ML** project, focused on **audio classification** using neural networks. Audio files are converted into **MEL spectrogram images**, allowing machine learning techniques to process audio signals as images.
 
-O objetivo do projeto é aplicar técnicas de aprendizado de máquina em dispositivos com recursos limitados, como microcontroladores, utilizando representações visuais de áudio.
-
----
-
-## 📂 Estrutura do Repositório
-
-* `Projeto_TinyML_DEFINITIVO (1).ipynb` → Implementação da rede neural para classificação de áudios transformados em espectrogramas MEL.
+The goal of the project is to apply machine learning techniques on resource-constrained devices, such as microcontrollers, using visual representations of audio.
 
 ---
 
-## 🧠 Conteúdos abordados
+## 📂 Repository Structure
 
-* Pré-processamento de sinais de áudio
-* Conversão de áudio em espectrograma MEL
-* Construção e treinamento de redes neurais para classificação de áudio
-* Aplicação de modelos Tiny ML em dispositivos com recursos limitados
+* `Projeto_TinyML_DEFINITIVO (1).ipynb` → Implementation of the neural network for classifying audio transformed into MEL spectrograms.
 
 ---
 
-## 👥 Equipe do Projeto
+## 🧠 Topics Covered
 
-* **Daniel Pessoa Máximo** – Desenvolvedor principal e pesquisador
+* Audio signal preprocessing
+* Conversion of audio to MEL spectrogram
+* Building and training neural networks for audio classification
+* Applying Tiny ML models on resource-constrained devices
+
+---
+
+## 👥 Project Team
+
+* **Daniel Pessoa Máximo** – Lead developer and researcher
